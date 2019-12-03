@@ -18,10 +18,10 @@ disqusShortname = "yourdiscussshortname"
 [params]
     author = "Omar Aparicio"
     description = "Compilando..."
-    keywords = "blog,developer,personal"
-    info = "Developer and Archer"
+    keywords = "blog,development,Software,personal"
+    info = "Software Developer and Arcade Gamer"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Aqui va algo interesante ..."
+    footercontent = "Compilando ..."
 
     dateformat = "January 2, 2006"
 
@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
     hideCopyright = true
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    #commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
     rtl = false
 
